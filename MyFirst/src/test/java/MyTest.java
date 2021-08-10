@@ -11,6 +11,6 @@ public class MyTest {
 		assertEquals("Hello", "Hello");
 assertEquals("Welcome", "Welcome");
 
-
+assertEquals("Hi", "Hi");
 	}
 }
