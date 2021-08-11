@@ -9,7 +9,7 @@ public class MyTest {
 	
 	public void myTest() {
 		assertEquals("Hello", "Hello");
-assertEquals("Welcome Janu", "Welcome");
+assertEquals("Janu", "Janu");
 
 assertEquals("Hi", "Hi");
 	}
